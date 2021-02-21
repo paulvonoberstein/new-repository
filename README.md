@@ -18,12 +18,12 @@
             
             
             
-            .class2 {
+            .Genesis {
                  background-color: rgb(158, 240, 210);
                 font:  50px sans;
             }
             
-            .class1 {
+            .Elon {
                  background-color: rgb(162, 158, 240);
                 font: bold 40px fantasy;
             }
@@ -47,7 +47,11 @@
 
         <h1> Minecraft </h>
         
-        <p> Genesis: One day Steve spawned in a new world and then a Creeper also spawned right next to him then it blew up and Steve died and went to heaven</p>
+        <p>Genesis: One day Steve spawned in a new world and then a Creeper also spawned right next to him then it blew up and Steve died and went to heaven</p>
+        
+        <img src = "https://cdn.britannica.com/10/152310-050-5A09D74A/Sand-dunes-Sahara-Morocco-Merzouga.jpg", alt = "desert">
+        
+        <p>Elon: and then he smashed the respawn the button. He respawned on a desert biome.  </p>
         
         
         
